@@ -13,7 +13,7 @@ const BasicTextModule = () => {
         <p style={{ marginBottom: "60px" }}>
           We are Cooking Something Great, Get On our Mail list to get all our Developments as they Happen.
         </p>
-        <Button text="Get on" as={Link} to="/products" />
+        <Button text="Get on" as={Link} to="https://mfmgatetw46.typeform.com/to/KO4OJIkk" />
       </div>
     </BasicTextModuleStyles>
   )
