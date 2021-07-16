@@ -9,7 +9,7 @@ import Features from "../components/Features/Features"
 const Index = () => {
   return (
     <>
-      <Seo title="Home" />
+      <Seo title="Zillusion Studios" />
       <BannerModule
         // title="Zillusion Studios"
         // subTitle="As Real as It Gets!"
