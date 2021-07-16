@@ -8,12 +8,12 @@ require("dotenv").config({
 })
 module.exports = {
   siteMetadata: {
-    title: "",
-    description: "A super-fast site using GatsbyJS",
+    title: "Zillusion Studios",
+    description: "Game Devlopment + Virtual Production Studio",
     author: "Pravesh Vyas",
     twitterUsername: "@v_p5h",
     image: "/yellow-metal-design-decoration.jpg",
-    siteUrl: "https://barcadia.netlify.com",
+    siteUrl: "https://zillusion.com",
   },
   /* Your site config here */
   plugins: [
@@ -46,8 +46,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://barcadia.netlify.com",
-        sitemap: "https://barcadia.netlify.com/sitemap.xml",
+        host: "https://zillusion.com",
+        sitemap: "https://zillusion.com/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
